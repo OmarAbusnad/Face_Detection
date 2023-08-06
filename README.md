@@ -16,7 +16,7 @@ Welcome to the Face Recognition and Data Logging System repository. This Python 
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
    ```
-   git clone [https://github.com/yourusername/face-recognition-data-logging](https://github.com/OmarAbusnad/Face_Detection).git
+   git clone (https://github.com/OmarAbusnad/Face_Detection).git
    ```
 
 2. **Install Dependencies:** Ensure you have Python installed, along with the required libraries (such as `opencv-python` and `openpyxl`).
